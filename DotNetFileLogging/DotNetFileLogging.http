@@ -1,0 +1,6 @@
+@DotNetFileLogging_HostAddress = https://localhost:7170
+
+GET {{DotNetFileLogging_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
